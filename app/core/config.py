@@ -13,7 +13,7 @@ class Settings(BaseSettings):
     pinecone_index_name: str = "fde-it-support-rag"
     pinecone_namespace: str = "company-it-kb"
     embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
-    openai_model: str = "nvidia/nemotron-3-ultra-550b-a55b:free"
+    openrouter_model: str = "nvidia/nemotron-3-ultra-550b-a55b:free"
     top_k: int = 4
     max_retries: int = 1
     admin_api_key: str = "change-me"
