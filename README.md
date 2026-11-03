@@ -1,4 +1,4 @@
-# Enterprise IT Support Agentic RAG Copilot
+# Enterprise IT Support Agentic RAG Chatbot 
 
 An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-style Agentic RAG workflow into a deployable internal product using **LangGraph, FastAPI, Pinecone, Groq, Tavily, HTML, CSS, and JavaScript**.
 
@@ -7,7 +7,7 @@ An end-to-end **Forward Deployed Engineer (FDE) project** that turns a notebook-
 ## 1. Business Problem
 
 ### Customer
-**NovaRetail**, a fictional 3,000-employee retail company.
+**SandipIT**, a fictional 3,000-employee **Telecom** company.
 
 ### Problem
 The internal IT team maintains many documents: VPN instructions, password rules, MFA policy, software installation rules, laptop troubleshooting guides, and service-desk runbooks.
